@@ -31,7 +31,7 @@
    <img src = "https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark">
   </td>
   <td>
-   <img src = "https://skillicons.dev/icons?i=linux,docker,androidstudio&theme=dark">
+   <img src = "https://skillicons.dev/icons?i=linux,qt,androidstudio&theme=dark">
   </td>
  </tr>
  <tr>
