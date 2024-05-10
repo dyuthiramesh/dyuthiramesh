@@ -6,25 +6,64 @@
 
 ### "Curiosity is the wick in the candle of learning." - William Arthur Ward
 ---
-### What I have worked on?
-<p>
-     <img alt="Tensorflow" src= "https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-     <img alt="Open CV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
-     <img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)"/>
-     <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-     <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-     <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-     <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-     <img alt="Java" src= "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-     <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
- </p>
- 
- ---
- 
- ### About ME
+### About ME
  - 👩‍💼 B.Tech 2nd Year Student pursuing Computer Science Engineering. <br/>
+
+## ⚡️ Languages and Tools
+
+<table align="center"> 
+ <tr>
+  <td>
+   <strong>Programming Languages</strong>
+  </td>
+  <td>
+   <strong>Data Science & Machine Learning</strong>
+  </td>
+  <td>
+   <strong>Software Development & Tools</strong>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <img src = "https://skillicons.dev/icons?i=python,java,c&theme=dark">
+  </td>
+  <td>
+   <img src = "https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark">
+  </td>
+  <td>
+   <img src = "https://skillicons.dev/icons?i=linux,docker,androidstudio&theme=dark">
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <strong>Web Development (Front End)</strong>
+  </td>
+  <td>
+   <strong>Web Development (Back End)</strong>
+  </td>
+  <td>
+   <strong>Version Control & Miscellaneous</strong>
+  </td>
+ </tr>
+ <tr>
+  <td>
+   <img src = "https://skillicons.dev/icons?i=html,css,react&theme=dark">
+  </td>
+  <td>
+   <img src = "https://skillicons.dev/icons?i=nodejs,mongodb,firebase&theme=dark">
+  </td>
+  <td>
+   <img src = "https://skillicons.dev/icons?i=git,github,bash&theme=dark">
+  </td>
+ </tr>
+</table>
+
+## 📊 Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dyuthiramesh&hide_title=false&hide_rank=&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="170" alt="stats graph"/>
+  <img src="https://streak-stats.demolab.com?user=dyuthiramesh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=2" height="170" alt="streak graph"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dyuthiramesh&locale=en&hide_title=false&layout=donut&langs_count=6&theme=dracula&hide_border=false&order=3" alt="languages graph"/>
+</div>
 
  ### Connect with Me
  <p>
